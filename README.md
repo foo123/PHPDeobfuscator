@@ -3,6 +3,8 @@ PHPDeobfuscator
 
 Generic PHP Deobfuscator and Beautifier Class
 
+![Tazmania](/images/Tazmania.png)
+
 The main algorithm is complete,
 however in order to massively deobfuscate a whole package
 it needs to run in context, else php errors will appear, which will make the
