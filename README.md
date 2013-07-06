@@ -1,12 +1,11 @@
 PHPDeobfuscator
 ===============
 
-Generic PHP Deobfuscator and Beautifier Class
+__Generic PHP Deobfuscator and Beautifier Class__
 
 ![Tazmania](/images/Tazmania.png)
 
-The main algorithm is complete,
-however in order to massively deobfuscate a whole package
+The main algorithm is complete,  however in order to massively deobfuscate a whole package
 it needs to run in context, else php errors will appear, which will make the
 deobfuscation problematic
 
