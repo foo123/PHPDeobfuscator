@@ -1,7 +1,7 @@
 PHPDeobfuscator
 ===============
 
-### Further development on this project has stopped!!
+**Further development on this project has stopped!!**
 
 
 __Generic PHP Deobfuscator and Beautifier Class__
@@ -13,6 +13,3 @@ it needs to run in context, else php errors will appear, which will make the
 deobfuscation problematic
 
 This is still in progress for a generic way to do this
-
-*URL* [Nikos Web Development](http://nikos-web-development.netai.net/ "Nikos Web Development")  
-*URL* [WorkingClassCode](http://workingclasscode.uphero.com/ "Working Class Code")  
